@@ -1,2 +1,0 @@
-# csharp-practice
-c# practice 
