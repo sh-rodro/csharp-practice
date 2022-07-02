@@ -1,4 +1,4 @@
-// my first program in csharp
+// my first program in c sharp
 
 using System;
 
